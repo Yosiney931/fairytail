@@ -1,0 +1,17 @@
+*{ 
+    margin: 0px;
+    padding: opx;
+}
+body{ 
+
+    background-color: black;
+    color: aliceblue;
+ }
+ h1{ 
+    text-align: center;
+    padding: 10px;
+  }
+  img{ 
+    width: 20%;
+    height: auto;
+   }
